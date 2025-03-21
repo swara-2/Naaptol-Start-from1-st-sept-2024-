@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-12T15:18:56 IST" name="Default suite" finished-at="2025-03-12T15:19:22 IST" duration-ms="26123">
+    <groups>
+    </groups>
+    <test started-at="2025-03-12T15:18:56 IST" name="Default test" finished-at="2025-03-12T15:19:22 IST" duration-ms="26123">
+      <class name="test.LoginTest">
+        <test-method is-config="true" signature="openB()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:18:56 IST" name="openB" finished-at="2025-03-12T15:18:59 IST" duration-ms="3505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+        <test-method signature="loginFive()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:18:59 IST" name="loginFive" finished-at="2025-03-12T15:19:00 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFive -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:00 IST" name="end" finished-at="2025-03-12T15:19:00 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="openB()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:00 IST" name="openB" finished-at="2025-03-12T15:19:03 IST" duration-ms="3166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+        <test-method signature="loginFour()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:03 IST" name="loginFour" finished-at="2025-03-12T15:19:09 IST" duration-ms="5515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFour -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:09 IST" name="end" finished-at="2025-03-12T15:19:09 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="openB()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:09 IST" name="openB" finished-at="2025-03-12T15:19:12 IST" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+        <test-method signature="loginOne()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:12 IST" name="loginOne" finished-at="2025-03-12T15:19:12 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOne -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:12 IST" name="end" finished-at="2025-03-12T15:19:13 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="openB()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:13 IST" name="openB" finished-at="2025-03-12T15:19:15 IST" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+        <test-method signature="loginSix()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:15 IST" name="loginSix" finished-at="2025-03-12T15:19:16 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSix -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:16 IST" name="end" finished-at="2025-03-12T15:19:16 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="openB()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:16 IST" name="openB" finished-at="2025-03-12T15:19:18 IST" duration-ms="2506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+        <test-method signature="loginThree()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:18 IST" name="loginThree" finished-at="2025-03-12T15:19:19 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginThree -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:19 IST" name="end" finished-at="2025-03-12T15:19:19 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="openB()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:19 IST" name="openB" finished-at="2025-03-12T15:19:21 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+        <test-method signature="loginTwo()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:21 IST" name="loginTwo" finished-at="2025-03-12T15:19:22 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTwo -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginTest@795509d9]" started-at="2025-03-12T15:19:22 IST" name="end" finished-at="2025-03-12T15:19:22 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
